@@ -1,0 +1,7 @@
+opencv-contrib-python==4.13.0.92
+mediapipe==0.10.9
+scikit-learn==1.8.0
+numpy==2.4.6
+matplotlib==3.10.9
+pillow==12.2.0
+sounddevice==0.5.5
